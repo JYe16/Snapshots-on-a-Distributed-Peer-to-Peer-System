@@ -1,0 +1,5 @@
+09:38:35 - Size for snapshot 12: 60 bytes
+09:38:35 - Size for snapshot 13: 80 bytes
+09:38:35 - Size for snapshot 14: 104 bytes
+09:38:35 - Size for snapshot 15: 92 bytes
+09:38:35 - Snapshot collecting time: 6.0

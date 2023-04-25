@@ -1,0 +1,6 @@
+09:38:38 - Size for snapshot 4: 112 bytes
+09:38:38 - Size for snapshot 8: 80 bytes
+09:38:38 - Size for snapshot 9: 96 bytes
+09:38:38 - Size for snapshot 10: 72 bytes
+09:38:38 - Size for snapshot 11: 84 bytes
+09:38:38 - Snapshot collecting time: 10.0

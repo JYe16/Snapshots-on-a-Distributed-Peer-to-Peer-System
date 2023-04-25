@@ -49,7 +49,8 @@ public class MultipleServentStarter {
 					break;
 				}
 			}
-			File folder = new File("D:\\Code\\COP-5611\\Spezialetti-Kearns\\ly_snapshot\\error");
+			//File folder = new File("D:\\Code\\COP-5611\\Spezialetti-Kearns\\ly_snapshot\\error");
+			File folder = new File("C:\\Code\\Snapshots-on-a-Distributed-Peer-to-Peer-System\\ly_snapshot\\error");
 			File[] files = folder.listFiles();
 			double collectTimeSum = 0.0;
 			double collectCount = 0.0;
@@ -64,7 +65,7 @@ public class MultipleServentStarter {
 							collectTimeSum += Double.parseDouble(line.substring(37, line.length()));
 							collectCount += 1.0;
 						}
-						if (line.indexOf("Size for snapshot") != 1) {
+						else if (line.indexOf("Size for snapshot") != 1) {
 							String[] tempArr = line.split(" ");
 							snapshotSizeSum += Integer.parseInt(tempArr[tempArr.length - 2]);
 						}
@@ -74,8 +75,8 @@ public class MultipleServentStarter {
 					e.printStackTrace();
 				}
 			}
-			System.out.println("Average collcting time: " + (collectTimeSum / collectCount));
-			System.out.println("Average snapshot size: " + (snapshotSizeSum / AppConfig.getServentCount()));
+			System.out.println("Average collcting time: " + (collectTimeSum / collectCount) + " seconds.");
+			System.out.println("Average snapshot size: " + (snapshotSizeSum / AppConfig.getServentCount()) + " bytes.");
 		}
 	}
 	

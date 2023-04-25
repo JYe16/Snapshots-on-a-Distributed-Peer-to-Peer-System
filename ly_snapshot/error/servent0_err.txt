@@ -1,0 +1,4 @@
+09:38:35 - Size for snapshot 0: 56 bytes
+09:38:35 - Size for snapshot 1: 44 bytes
+09:38:35 - Size for snapshot 2: 100 bytes
+09:38:35 - Snapshot collecting time: 7.0

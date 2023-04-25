@@ -1,316 +1,454 @@
-21:40:21 - Starting servent [0|localhost|1100]
-21:40:21 - Pausing for 500 ms
-21:40:21 - Pausing for 9000 ms
-21:40:21 - Got message [1|0|5|TRANSACTION|0]
-21:40:21 - Got message [1|37|6|TRANSACTION|0]
-21:40:21 - Got message [1|36|9|TRANSACTION|0]
-21:40:21 - Got message [1|38|10|TRANSACTION|0]
-21:40:21 - Got message [1|21|8|TRANSACTION|0]
-21:40:22 - Got message [1|10|2|TRANSACTION|0]
-21:40:22 - Got message [1|2|9|TRANSACTION|0]
-21:40:22 - Got message [1|16|1|TRANSACTION|0]
-21:40:22 - Got message [1|22|4|TRANSACTION|0]
-21:40:22 - Got message [1|48|10|TRANSACTION|0]
-21:40:22 - Got message [1|12|5|TRANSACTION|0]
-21:40:22 - Got message [1|27|6|TRANSACTION|0]
-21:40:22 - Got message [1|41|4|TRANSACTION|0]
-21:40:22 - Got message [1|46|2|TRANSACTION|0]
-21:40:22 - Got message [1|26|5|TRANSACTION|0]
-21:40:22 - Got message [1|23|5|TRANSACTION|0]
-21:40:22 - Got message [1|4|3|TRANSACTION|0]
-21:40:22 - Got message [1|1|9|TRANSACTION|0]
-21:40:22 - Got message [1|33|7|TRANSACTION|0]
-21:40:22 - Got message [1|31|3|TRANSACTION|0]
-21:40:22 - Got message [1|13|2|TRANSACTION|0]
-21:40:22 - Got message [1|45|3|TRANSACTION|0]
-21:40:22 - Got message [1|6|6|TRANSACTION|0]
-21:40:22 - Got message [1|42|7|TRANSACTION|0]
+09:38:27 - Starting servent [0|localhost|1100]
+09:38:27 - Pausing for 500 ms
+09:38:28 - Pausing for 9000 ms
 Pocinjem da trazim [0]
-21:40:22 - USO U MARKER ALO
+09:38:28 - USO U MARKER ALO
 App config 1
-21:40:22 - Got message [1|11|5|TRANSACTION|0]
+09:38:28 - Got message [1|20|7|TRANSACTION|0]
 ceka se
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
-21:40:22 - Got message [1|15|8|TRANSACTION|0]
-21:40:22 - Got message [1|25|3|TRANSACTION|0]
-21:40:22 - Got message [1|20|4|TRANSACTION|0]
-21:40:22 - Got message [1|30|10|TRANSACTION|0]
-21:40:22 - Got message [1|35|4|TRANSACTION|0]
-21:40:22 - Got message [1|34|4|TRANSACTION|0]
-21:40:22 - Got message [1|3|7|TRANSACTION|0]
-21:40:22 - Got message [1|24|1|TRANSACTION|0]
-21:40:22 - Got message [1|19|8|TRANSACTION|0]
-21:40:22 - Got message [1|40|4|TRANSACTION|0]
-21:40:22 - Got message [1|39|10|TRANSACTION|0]
-21:40:22 - Got message [1|29|8|TRANSACTION|0]
-21:40:22 - Got message [1|9|1|TRANSACTION|0]
-21:40:22 - Got message [1|18|3|TRANSACTION|0]
-21:40:22 - Got message [1|49|6|TRANSACTION|0]
-21:40:22 - Got message [1|17|8|TRANSACTION|0]
-21:40:22 - Got message [1|43|1|TRANSACTION|0]
-21:40:22 - Got message [1|5|4|TRANSACTION|0]
-21:40:22 - Got message [1|47|8|TRANSACTION|0]
-21:40:22 - Got message [1|44|9|TRANSACTION|0]
-21:40:22 - Got message [1|28|1|TRANSACTION|0]
-21:40:22 - Got message [1|7|3|TRANSACTION|0]
-21:40:22 - Got message [1|32|2|TRANSACTION|0]
-21:40:22 - Got message [1|8|5|TRANSACTION|0]
-21:40:22 - Got message [1|14|9|TRANSACTION|0]
-21:40:22 - Got message [2|45|3|TRANSACTION|0]
-21:40:22 - Got message [2|47|1|TRANSACTION|0]
-21:40:22 - Got message [2|69|2|TRANSACTION|0]
-21:40:22 - Got message [2|105|3|TRANSACTION|0]
-21:40:22 - Got message [2|135|4|TRANSACTION|0]
-21:40:22 - Got message [2|0|5|TRANSACTION|0]
-21:40:23 - Got message [2|44|4|TRANSACTION|0]
-21:40:23 - Got message [2|59|6|TRANSACTION|0]
-21:40:23 - Got message [2|113|2|TRANSACTION|0]
-21:40:23 - Got message [2|9|10|TRANSACTION|0]
-21:40:23 - Got message [2|133|1|TRANSACTION|0]
-21:40:23 - Got message [2|53|5|TRANSACTION|0]
-21:40:23 - Got message [2|60|10|TRANSACTION|0]
-21:40:23 - Got message [2|16|5|TRANSACTION|0]
-21:40:23 - Got message [2|83|4|TRANSACTION|0]
-21:40:23 - Got message [2|119|2|TRANSACTION|0]
-21:40:23 - Got message [2|102|3|TRANSACTION|0]
-21:40:23 - Got message [2|42|3|TRANSACTION|0]
-21:40:23 - Got message [2|76|6|TRANSACTION|0]
-21:40:23 - Got message [2|30|3|TRANSACTION|0]
-21:40:23 - Got message [2|48|2|TRANSACTION|0]
-21:40:23 - Got message [2|19|3|TRANSACTION|0]
-21:40:23 - Got message [2|137|9|TRANSACTION|0]
-21:40:23 - Got message [2|13|2|TRANSACTION|0]
-21:40:23 - Got message [2|90|9|TRANSACTION|0]
-21:40:23 - Got message [2|12|2|TRANSACTION|0]
-21:40:23 - Got message [2|78|2|TRANSACTION|0]
-21:40:23 - Got message [2|75|9|TRANSACTION|0]
-21:40:23 - Got message [2|10|7|TRANSACTION|0]
-21:40:23 - Got message [2|121|7|TRANSACTION|0]
-21:40:23 - Got message [2|104|3|TRANSACTION|0]
-21:40:23 - Got message [2|139|5|TRANSACTION|0]
-21:40:23 - Got message [2|2|8|TRANSACTION|0]
-21:40:23 - Got message [2|20|3|TRANSACTION|0]
-21:40:23 - Got message [2|74|7|TRANSACTION|0]
-21:40:23 - Got message [2|72|10|TRANSACTION|0]
-21:40:23 - Got message [2|89|5|TRANSACTION|0]
-21:40:23 - Got message [2|106|6|TRANSACTION|0]
-21:40:23 - Got message [2|1|8|TRANSACTION|0]
+09:38:28 - Got message [1|19|5|TRANSACTION|0]
+09:38:28 - Got message [1|38|5|TRANSACTION|0]
+09:38:28 - Got message [1|41|8|TRANSACTION|0]
+09:38:28 - Got message [1|24|5|TRANSACTION|0]
+09:38:28 - Got message [1|47|1|TRANSACTION|0]
+09:38:28 - Got message [1|23|9|TRANSACTION|0]
+09:38:28 - Got message [1|42|9|TRANSACTION|0]
+09:38:28 - Got message [1|11|6|TRANSACTION|0]
+09:38:28 - Got message [1|27|1|TRANSACTION|0]
+09:38:28 - Got message [1|46|5|TRANSACTION|0]
+09:38:28 - Got message [1|3|3|TRANSACTION|0]
+09:38:28 - Got message [1|9|4|TRANSACTION|0]
+09:38:28 - Got message [1|32|10|TRANSACTION|0]
+09:38:28 - Got message [1|10|4|TRANSACTION|0]
+09:38:28 - Got message [1|31|6|TRANSACTION|0]
+09:38:28 - Got message [1|8|1|TRANSACTION|0]
+09:38:28 - Got message [1|36|3|TRANSACTION|0]
+09:38:28 - Got message [1|28|3|TRANSACTION|0]
+09:38:28 - Got message [1|40|1|TRANSACTION|0]
+09:38:28 - Got message [1|13|4|TRANSACTION|0]
+09:38:28 - Got message [1|1|4|TRANSACTION|0]
+09:38:28 - Got message [1|21|7|TRANSACTION|0]
+09:38:28 - Got message [1|18|2|TRANSACTION|0]
+09:38:28 - Got message [1|4|1|TRANSACTION|0]
+09:38:28 - Got message [1|14|5|TRANSACTION|0]
+09:38:28 - Got message [1|0|2|TRANSACTION|0]
+09:38:28 - Sending message [0|0|0|LY_MARKER|1]
+09:38:28 - Got message [1|43|2|TRANSACTION|0]
+09:38:28 - Got message [1|51|6|TRANSACTION|0]
+09:38:28 - Got message [1|52|10|TRANSACTION|0]
+09:38:28 - Got message [1|53|9|TRANSACTION|0]
+09:38:28 - Got message [1|54|3|TRANSACTION|0]
+09:38:28 - Got message [1|55|8|TRANSACTION|0]
+09:38:28 - Got message [1|56|7|TRANSACTION|0]
+09:38:29 - Got message [1|57|7|TRANSACTION|0]
+09:38:29 - Got message [1|58|7|TRANSACTION|0]
+09:38:29 - Got message [1|59|3|TRANSACTION|0]
+09:38:29 - Got message [1|60|2|TRANSACTION|0]
+09:38:29 - Got message [1|61|10|TRANSACTION|0]
+09:38:29 - Got message [1|62|7|TRANSACTION|0]
+09:38:29 - Got message [1|63|6|TRANSACTION|0]
+09:38:29 - Got message [1|64|10|TRANSACTION|0]
+09:38:29 - Got message [1|65|4|TRANSACTION|0]
+09:38:29 - Got message [1|66|4|TRANSACTION|0]
+09:38:29 - Got message [1|67|10|TRANSACTION|0]
+09:38:29 - Got message [2|106|2|TRANSACTION|0]
+09:38:29 - Got message [1|68|7|TRANSACTION|0]
+09:38:29 - Got message [1|69|7|TRANSACTION|0]
+09:38:29 - Got message [2|68|1|TRANSACTION|0]
+09:38:29 - Got message [1|70|1|TRANSACTION|0]
+09:38:29 - Got message [2|7|10|TRANSACTION|0]
+09:38:29 - Got message [2|38|5|TRANSACTION|0]
+09:38:29 - Got message [1|71|10|TRANSACTION|0]
+09:38:29 - Got message [2|30|5|TRANSACTION|0]
+09:38:29 - Got message [1|72|3|TRANSACTION|0]
+09:38:29 - Got message [2|32|1|TRANSACTION|0]
+09:38:29 - Got message [2|0|2|TRANSACTION|0]
+09:38:29 - Got message [2|122|8|TRANSACTION|0]
+09:38:29 - Got message [2|40|3|TRANSACTION|0]
+09:38:29 - Got message [2|85|2|TRANSACTION|0]
+09:38:29 - Got message [2|4|9|TRANSACTION|0]
+09:38:29 - Sending message [0|1|0|LY_MARKER|2]
+09:38:29 - Got message [2|92|10|TRANSACTION|0]
+09:38:29 - Got message [2|115|10|TRANSACTION|0]
+09:38:29 - Got message [2|34|2|TRANSACTION|0]
+09:38:29 - Got message [2|6|3|TRANSACTION|0]
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
-21:40:23 - Sending message [0|0|0|LY_MARKER|1]
-21:40:23 - Got message [2|91|3|TRANSACTION|0]
-21:40:23 - Got message [2|11|1|TRANSACTION|0]
-21:40:23 - Sending message [0|1|0|LY_MARKER|2]
-21:40:23 - Got message [2|156|1|TRANSACTION|0]
-21:40:23 - Got message [2|158|7|TRANSACTION|0]
-21:40:23 - Got message [2|161|7|TRANSACTION|0]
-21:40:23 - Got message [2|163|3|TRANSACTION|0]
-21:40:23 - Got message [2|164|7|TRANSACTION|0]
-21:40:23 - Got message [2|167|4|TRANSACTION|0]
-21:40:23 - Got message [2|173|4|TRANSACTION|0]
-21:40:23 - Got message [2|175|5|TRANSACTION|0]
-21:40:23 - Got message [2|176|9|TRANSACTION|0]
+09:38:29 - Got message [2|67|3|TRANSACTION|0]
+09:38:29 - Got message [2|70|1|TRANSACTION|0]
+09:38:29 - Got message [2|100|5|TRANSACTION|0]
+09:38:30 - Got message [2|44|8|TRANSACTION|0]
+09:38:30 - Got message [2|91|2|TRANSACTION|0]
+09:38:30 - Got message [2|62|10|TRANSACTION|0]
+09:38:30 - Got message [2|130|7|TRANSACTION|0]
+09:38:30 - Got message [2|55|6|TRANSACTION|0]
+09:38:30 - Got message [2|121|6|TRANSACTION|0]
+09:38:30 - Got message [2|136|1|TRANSACTION|0]
+09:38:30 - Got message [2|104|10|TRANSACTION|0]
+09:38:30 - Got message [2|69|4|TRANSACTION|0]
+09:38:30 - Got message [2|41|8|TRANSACTION|0]
+09:38:30 - Got message [2|108|1|TRANSACTION|0]
+09:38:30 - Got message [2|134|8|TRANSACTION|0]
+09:38:30 - Got message [2|9|6|TRANSACTION|0]
+09:38:30 - Got message [2|74|9|TRANSACTION|0]
+09:38:30 - Got message [2|2|7|TRANSACTION|0]
+09:38:30 - Got message [2|71|2|TRANSACTION|0]
+09:38:30 - Got message [2|5|5|TRANSACTION|0]
+09:38:30 - Got message [2|1|1|TRANSACTION|0]
+09:38:30 - Got message [2|86|10|TRANSACTION|0]
+09:38:30 - Got message [2|109|4|TRANSACTION|0]
+09:38:30 - Got message [2|3|8|TRANSACTION|0]
+09:38:30 - Got message [2|83|3|TRANSACTION|0]
+09:38:30 - Got message [2|56|3|TRANSACTION|0]
+09:38:30 - Got message [1|50||LY_TELL|0]
+09:38:30 - Dobio rezultate od [1]
+09:38:30 - Mi smo inicijator, dodajemo pristigle rezultate
+09:38:30 - Got message [2|97|10|TRANSACTION|0]
+09:38:30 - Got message [2|39|10|TRANSACTION|0]
+09:38:30 - Got message [2|37|2|TRANSACTION|0]
+09:38:30 - Got message [2|53|7|TRANSACTION|0]
+09:38:30 - Got message [2|138|7|TRANSACTION|0]
+09:38:30 - Got message [2|113|1|TRANSACTION|0]
+09:38:30 - Got message [2|31|9|TRANSACTION|0]
+09:38:30 - Got message [2|127|9|TRANSACTION|0]
+09:38:30 - Got message [2|8|1|TRANSACTION|0]
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
-21:40:25 - Got message [1|50||LY_TELL|0]
-21:40:25 - Dobio rezultate od [1]
-21:40:25 - Mi smo inicijator, dodajemo pristigle rezultate
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
+09:38:34 - Got message [2|157||LY_TELL|0]
+09:38:34 - Dobio rezultate od [2]
+09:38:34 - Mi smo inicijator, dodajemo pristigle rezultate
+09:38:34 - Krece racunanje REZULTATA ZA OVAJ REGION
 ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
-ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
-21:40:29 - Got message [2|187||LY_TELL|0]
-21:40:29 - Dobio rezultate od [2]
-21:40:29 - Mi smo inicijator, dodajemo pristigle rezultate
-21:40:29 - Krece racunanje REZULTATA ZA OVAJ REGION
-ceka se OD KOMSIJA (SVA DECA VRACAJU ODGOVOR - ILI REZULTAT ILI DA ODBACUJU RODITELJA :()
-21:40:30 - Got message [6|4||SUM_MESSAGE|0]
-21:40:30 - START BURSTING
-21:40:30 - Pausing for 12000 ms
-21:40:31 - Sending message [0|13|5|TRANSACTION|1]
-21:40:31 - Sending message [0|2|5|TRANSACTION|1]
-21:40:31 - Sending message [0|49|10|TRANSACTION|1]
-21:40:31 - Sending message [0|25|6|TRANSACTION|1]
-21:40:31 - Sending message [0|43|10|TRANSACTION|1]
-21:40:31 - Sending message [0|31|10|TRANSACTION|1]
-21:40:31 - Sending message [0|101|6|TRANSACTION|2]
-21:40:31 - Sending message [0|44|9|TRANSACTION|2]
-21:40:31 - Sending message [0|65|5|TRANSACTION|1]
-21:40:31 - Sending message [0|94|9|TRANSACTION|2]
-21:40:31 - Sending message [0|92|6|TRANSACTION|2]
-21:40:31 - Sending message [0|96|9|TRANSACTION|2]
-21:40:31 - Sending message [0|39|9|TRANSACTION|2]
-21:40:31 - Sending message [0|41|9|TRANSACTION|2]
-21:40:31 - Sending message [0|21|5|TRANSACTION|2]
-21:40:31 - Sending message [0|64|10|TRANSACTION|1]
-21:40:31 - Sending message [0|63|3|TRANSACTION|1]
-21:40:31 - Sending message [0|42|10|TRANSACTION|1]
-21:40:31 - Sending message [0|20|9|TRANSACTION|1]
-21:40:31 - Sending message [0|81|5|TRANSACTION|1]
-21:40:31 - Sending message [0|85|9|TRANSACTION|2]
-21:40:31 - Recorded bitcake amount for 0 = 1131
-21:40:31 - Recorded bitcake amount for 1 = 733
-21:40:31 - Recorded bitcake amount for 2 = 679
-21:40:31 - Recorded bitcake amount for 4 = 645
+09:38:35 - Recorded bitcake amount for 0 = 1000
+09:38:35 - Recorded bitcake amount for 1 = 877
+09:38:35 - Recorded bitcake amount for 2 = 443
 
-21:40:31 - 0 sent to 1 = 0
-21:40:31 - 1 got from 0 = 0
-21:40:31 - Old tranzit for 0->1 = 0
-21:40:31 - New Tranzit for 0->1 = 0
+09:38:35 - 0 sent to 1 = 0
+09:38:35 - 1 got from 0 = 0
+09:38:35 - Old tranzit for 0->1 = 0
+09:38:35 - New Tranzit for 0->1 = 0
 
 
-21:40:31 - 0 sent to 2 = 0
-21:40:31 - 2 got from 0 = 0
-21:40:31 - Old tranzit for 0->2 = 0
-21:40:31 - New Tranzit for 0->2 = 0
-
-21:40:31 - Sending message [0|66|2|TRANSACTION|1]
-
-21:40:31 - Sending message [0|52|1|TRANSACTION|2]
-21:40:31 - 1 sent to 0 = 267
-21:40:31 - 0 got from 1 = 131
-21:40:31 - Old tranzit for 1->0 = 0
-21:40:31 - New Tranzit for 1->0 = 136
+09:38:35 - 0 sent to 2 = 0
+09:38:35 - 2 got from 0 = 0
+09:38:35 - Old tranzit for 0->2 = 0
+09:38:35 - New Tranzit for 0->2 = 0
 
 
-21:40:31 - 2 sent to 0 = 193
-21:40:31 - 0 got from 2 = 0
-21:40:31 - Old tranzit for 2->0 = 0
-21:40:31 - New Tranzit for 2->0 = 193
+09:38:35 - 1 sent to 0 = 123
+09:38:35 - 0 got from 1 = 0
+09:38:35 - Old tranzit for 1->0 = 0
+09:38:35 - New Tranzit for 1->0 = 123
 
 
-21:40:31 - 2 sent to 3 = 213
-21:40:31 - 3 got from 2 = 186
-21:40:31 - Old tranzit for 2->3 = 0
-21:40:31 - New Tranzit for 2->3 = 27
+09:38:35 - 2 sent to 0 = 267
+09:38:35 - 0 got from 2 = 0
+09:38:35 - Old tranzit for 2->0 = 0
+09:38:35 - New Tranzit for 2->0 = 267
 
 
-21:40:31 - 2 sent to 4 = 215
-21:40:31 - 4 got from 2 = 215
-21:40:31 - Old tranzit for 2->4 = 0
-21:40:31 - New Tranzit for 2->4 = 0
+09:38:35 - 2 sent to 3 = 290
+09:38:35 - 3 got from 2 = 290
+09:38:35 - Old tranzit for 2->3 = 0
+09:38:35 - New Tranzit for 2->3 = 0
 
 
-21:40:31 - 4 sent to 2 = 300
-21:40:31 - 2 got from 4 = 300
-21:40:31 - Old tranzit for 4->2 = 0
-21:40:31 - New Tranzit for 4->2 = 0
+09:38:35 - 2 sent to 4 = 236
+09:38:35 - 4 got from 2 = 236
+09:38:35 - Old tranzit for 2->4 = 0
+09:38:35 - New Tranzit for 2->4 = 0
 
-
-21:40:31 - 4 sent to 3 = 285
-21:40:31 - 3 got from 4 = 285
-21:40:31 - Old tranzit for 4->3 = 0
-21:40:31 - New Tranzit for 4->3 = 0
-
-
-21:40:31 - 4 sent to 8 = 281
-21:40:31 - 8 got from 4 = 281
-21:40:31 - Old tranzit for 4->8 = 0
-21:40:31 - New Tranzit for 4->8 = 0
-
-21:40:31 - System bitcake count: 3544
-21:40:31 - Cvorovi u mom regionu: [0=app.snapshot_bitcake.LYSnapshotResult@4734b690, 1=app.snapshot_bitcake.LYSnapshotResult@441ab499, 2=app.snapshot_bitcake.LYSnapshotResult@79cf0831, 4=app.snapshot_bitcake.LYSnapshotResult@4d110b44]
-21:40:31 - Suma za region[0]: 3544
-21:40:31 - Summing results with other regions...
-21:40:31 - Pocinje treci deo
-21:40:31 - Nisu mi svi javili dok sam ja pocinjao, saljem svima SVOJ REZULTAT_________________________________________
-21:40:31 - KRECEM DA CEKAM ALGORITAM____________________________________________
-21:40:31 - Sending message [0|32|9|TRANSACTION|2]
-21:40:31 - Sending message [0|100|7|TRANSACTION|2]
-21:40:31 - Sending message [0|9|2|TRANSACTION|1]
-21:40:31 - Sending message [0|11|5|TRANSACTION|1]
-21:40:31 - Sending message [0|34|5|TRANSACTION|1]
-21:40:31 - Sending message [0|22|10|TRANSACTION|2]
-21:40:31 - Sending message [0|46|10|TRANSACTION|2]
-21:40:31 - Sending message [0|26|10|TRANSACTION|2]
-21:40:31 - Sending message [0|69|5|TRANSACTION|2]
-21:40:31 - Sending message [0|17|5|TRANSACTION|2]
-21:40:31 - Sending message [0|16|3|TRANSACTION|1]
-21:40:31 - Sending message [0|57|10|TRANSACTION|2]
-21:40:31 - Sending message [0|82|5|TRANSACTION|1]
-21:40:31 - Sending message [0|5|4|TRANSACTION|1]
-21:40:31 - Sending message [0|97|7|TRANSACTION|1]
-21:40:31 - Sending message [0|99|1|TRANSACTION|2]
-21:40:31 - Sending message [0|93|1|TRANSACTION|2]
-21:40:31 - Sending message [0|3|1|TRANSACTION|1]
-21:40:31 - Sending message [0|37|2|TRANSACTION|2]
-21:40:31 - Sending message [0|76|6|TRANSACTION|2]
-21:40:31 - Sending message [0|89|7|TRANSACTION|2]
-21:40:31 - Sending message [0|88|10|TRANSACTION|2]
-21:40:31 - Got message [10|104||SUM_MESSAGE|0]
-21:40:31 - DOBILI ODGOVOR OD 10____________________________________________10
-21:40:31 - PROMENE: [10] _____10
-21:40:31 - Sending message [0|98|5|TRANSACTION|1]
-21:40:31 - Sending message [0|40|8|TRANSACTION|1]
-21:40:31 - Sending message [0|90|8|TRANSACTION|2]
-21:40:31 - Sending message [0|79|10|TRANSACTION|1]
-21:40:32 - Sending message [0|24|6|TRANSACTION|2]
-21:40:32 - Sending message [0|56|10|TRANSACTION|2]
-21:40:32 - Sending message [0|53|5|TRANSACTION|2]
-21:40:32 - Sending message [0|29|4|TRANSACTION|1]
-21:40:32 - Sending message [0|77|7|TRANSACTION|1]
-21:40:32 - Sending message [0|10|9|TRANSACTION|2]
-21:40:32 - Sending message [0|61|2|TRANSACTION|1]
-21:40:32 - Sending message [0|4|8|TRANSACTION|1]
-21:40:32 - Sending message [0|86|5|TRANSACTION|1]
-21:40:32 - Sending message [0|55|3|TRANSACTION|2]
-21:40:32 - Sending message [0|45|4|TRANSACTION|1]
-21:40:32 - Sending message [0|91|3|TRANSACTION|2]
-21:40:32 - Sending message [0|68|10|TRANSACTION|1]
-21:40:32 - Sending message [0|23|10|TRANSACTION|1]
-21:40:32 - Sending message [0|19|9|TRANSACTION|2]
-21:40:32 - Sending message [0|67|1|TRANSACTION|2]
-21:40:32 - Sending message [0|73|2|TRANSACTION|2]
-21:40:32 - Sending message [0|51|10|TRANSACTION|2]
-21:40:32 - Sending message [0|28|9|TRANSACTION|2]
-21:40:32 - Sending message [0|27|1|TRANSACTION|1]
-21:40:32 - Sending message [0|84|1|TRANSACTION|1]
-21:40:32 - Sending message [0|78|9|TRANSACTION|2]
-21:40:32 - Sending message [0|60|6|TRANSACTION|2]
-21:40:32 - Sending message [0|70|10|TRANSACTION|1]
-21:40:32 - Sending message [0|72|1|TRANSACTION|2]
-21:40:32 - Sending message [0|6|4|TRANSACTION|2]
-21:40:32 - Sending message [0|33|8|TRANSACTION|2]
-21:40:32 - Sending message [0|30|5|TRANSACTION|2]
-21:40:32 - Sending message [0|87|10|TRANSACTION|2]
-21:40:32 - Sending message [0|74|7|TRANSACTION|2]
-21:40:32 - Sending message [0|54|10|TRANSACTION|1]
-21:40:32 - Sending message [0|38|2|TRANSACTION|1]
-21:40:32 - Sending message [0|12|1|TRANSACTION|1]
-21:40:32 - Sending message [0|59|1|TRANSACTION|1]
-21:40:32 - Sending message [0|48|5|TRANSACTION|2]
-21:40:32 - Sending message [0|47|7|TRANSACTION|1]
-21:40:32 - Sending message [0|14|6|TRANSACTION|1]
-21:40:32 - Sending message [0|35|6|TRANSACTION|2]
-21:40:32 - Sending message [0|15|10|TRANSACTION|2]
-21:40:32 - Sending message [0|62|10|TRANSACTION|1]
-21:40:32 - Sending message [0|58|9|TRANSACTION|1]
-21:40:32 - Sending message [0|50|1|TRANSACTION|2]
-21:40:32 - Sending message [0|8|2|TRANSACTION|2]
-21:40:32 - Sending message [0|75|4|TRANSACTION|1]
-21:40:32 - Sending message [0|7|6|TRANSACTION|1]
-21:40:32 - Sending message [0|71|1|TRANSACTION|2]
-21:40:32 - Sending message [0|80|3|TRANSACTION|1]
-21:40:32 - Sending message [0|36|8|TRANSACTION|1]
-21:40:32 - Sending message [0|95|3|TRANSACTION|1]
-21:40:32 - Sending message [0|18|2|TRANSACTION|1]
-21:40:32 - Sending message [0|83|6|TRANSACTION|1]
-21:40:32 - Sending message [0|103||SUM_MESSAGE|10]
-21:40:32 - Sending message [0|102||SUM_MESSAGE|6]
-21:40:33 - Got message [10|105||SUM_MESSAGE|0]
-21:40:33 - DOBILI ODGOVOR OD 10____________________________________________10
-21:40:33 - PROMENE: [10, 6, 14] _____10
-21:40:33 - odgovorili svi____________________________________________10
-21:40:33 - ima promena, saljem svima svoje rezultate____________________________________________10
-21:40:33 - Got message [6|105||SUM_MESSAGE|0]
-21:40:33 - DOBILI ODGOVOR OD 6____________________________________________6
-21:40:33 - PROMENE: [] _____6
-21:40:33 - Sending message [0|105||SUM_MESSAGE|10]
-21:40:34 - Sending message [0|104||SUM_MESSAGE|6]
-21:40:34 - Sending message [0|106||SUM_MESSAGE|14]
-21:40:34 - Got message [14|7||SUM_MESSAGE|0]
-21:40:34 - DOBILI ODGOVOR OD 14____________________________________________14
-21:40:34 - PROMENE: [] _____14
-21:40:35 - Got message [6|110||SUM_MESSAGE|0]
-21:40:35 - DOBILI SMO SUM NULL____________________________________________6
-21:40:35 - TO JE BIO ODGOVOR KOJI NAM JE FALIO U RUNDI____________________________________________6
-21:40:35 - NEMA PROMENA, NISU SVI BLANKO PA SALJEMO DALJE BLANKO____________________________________________6
+09:38:35 - System bitcake count: 2710
+09:38:35 - Cvorovi u mom regionu: [0=app.snapshot_bitcake.LYSnapshotResult@55b01bf3, 1=app.snapshot_bitcake.LYSnapshotResult@5700e303, 2=app.snapshot_bitcake.LYSnapshotResult@e74016c]
+09:38:35 - Suma za region[0]: 2710
+09:38:35 - Summing results with other regions...
+09:38:35 - Pocinje treci deo
+09:38:35 - Nisu mi svi javili dok sam ja pocinjao, saljem svima SVOJ REZULTAT_________________________________________
+09:38:35 - KRECEM DA CEKAM ALGORITAM____________________________________________
+09:38:36 - Sending message [0|3||SUM_MESSAGE|10]
+09:38:37 - START BURSTING
+09:38:37 - Pausing for 12000 ms
+09:38:37 - Sending message [0|2||SUM_MESSAGE|6]
+09:38:37 - Sending message [0|29|4|TRANSACTION|2]
+09:38:37 - Sending message [0|53|2|TRANSACTION|1]
+09:38:37 - Sending message [0|9|6|TRANSACTION|2]
+09:38:37 - Sending message [0|43|4|TRANSACTION|2]
+09:38:37 - Sending message [0|75|10|TRANSACTION|1]
+09:38:37 - Sending message [0|45|7|TRANSACTION|1]
+09:38:37 - Sending message [0|86|4|TRANSACTION|2]
+09:38:37 - Sending message [0|36|7|TRANSACTION|1]
+09:38:37 - Sending message [0|51|4|TRANSACTION|1]
+09:38:37 - Sending message [0|60|6|TRANSACTION|1]
+09:38:37 - Sending message [0|100|1|TRANSACTION|1]
+09:38:37 - Sending message [0|91|7|TRANSACTION|1]
+09:38:37 - Sending message [0|62|10|TRANSACTION|1]
+09:38:37 - Sending message [0|89|5|TRANSACTION|1]
+09:38:37 - Sending message [0|8|9|TRANSACTION|1]
+09:38:37 - Sending message [0|7|8|TRANSACTION|2]
+09:38:37 - Sending message [0|24|3|TRANSACTION|1]
+09:38:37 - Sending message [0|27|2|TRANSACTION|2]
+09:38:37 - Sending message [0|82|2|TRANSACTION|1]
+09:38:37 - Sending message [0|6|9|TRANSACTION|1]
+09:38:37 - Sending message [0|78|5|TRANSACTION|2]
+09:38:37 - Sending message [0|56|7|TRANSACTION|1]
+09:38:37 - Sending message [0|85|10|TRANSACTION|1]
+09:38:37 - Sending message [0|47|7|TRANSACTION|2]
+09:38:37 - Sending message [0|95|5|TRANSACTION|2]
+09:38:37 - Sending message [0|96|1|TRANSACTION|2]
+09:38:37 - Sending message [0|25|8|TRANSACTION|1]
+09:38:37 - Sending message [0|59|6|TRANSACTION|2]
+09:38:37 - Sending message [0|21|9|TRANSACTION|1]
+09:38:37 - Sending message [0|84|3|TRANSACTION|2]
+09:38:37 - Sending message [0|38|3|TRANSACTION|1]
+09:38:37 - Sending message [0|55|7|TRANSACTION|2]
+09:38:37 - Sending message [0|33|9|TRANSACTION|1]
+09:38:37 - Sending message [0|93|10|TRANSACTION|1]
+09:38:37 - Sending message [0|72|6|TRANSACTION|2]
+09:38:37 - Sending message [0|57|6|TRANSACTION|1]
+09:38:37 - Sending message [0|5|9|TRANSACTION|1]
+09:38:37 - Sending message [0|20|10|TRANSACTION|1]
+09:38:37 - Sending message [0|90|9|TRANSACTION|2]
+09:38:37 - Sending message [0|98|7|TRANSACTION|2]
+09:38:37 - Sending message [0|31|10|TRANSACTION|1]
+09:38:37 - Sending message [0|46|5|TRANSACTION|2]
+09:38:37 - Sending message [0|15|3|TRANSACTION|2]
+09:38:37 - Sending message [0|50|3|TRANSACTION|2]
+09:38:37 - Sending message [0|14|4|TRANSACTION|1]
+09:38:37 - Sending message [0|80|8|TRANSACTION|1]
+09:38:37 - Sending message [0|26|2|TRANSACTION|2]
+09:38:38 - Sending message [0|54|1|TRANSACTION|2]
+09:38:38 - Sending message [0|16|6|TRANSACTION|2]
+09:38:38 - Sending message [0|52|8|TRANSACTION|2]
+09:38:38 - Sending message [0|99|4|TRANSACTION|2]
+09:38:38 - Sending message [0|42|10|TRANSACTION|1]
+09:38:38 - Sending message [0|4|9|TRANSACTION|1]
+09:38:38 - Sending message [0|30|4|TRANSACTION|2]
+09:38:38 - Sending message [0|103|9|TRANSACTION|2]
+09:38:38 - Sending message [0|11|7|TRANSACTION|1]
+09:38:38 - Sending message [0|68|2|TRANSACTION|1]
+09:38:38 - Sending message [0|81|8|TRANSACTION|2]
+09:38:38 - Sending message [0|69|9|TRANSACTION|1]
+09:38:38 - Got message [6|4||SUM_MESSAGE|0]
+09:38:38 - DOBILI ODGOVOR OD 6____________________________________________6
+09:38:38 - PROMENE: [6] _____6
+09:38:38 - Sending message [0|70|10|TRANSACTION|2]
+09:38:38 - Sending message [0|66|7|TRANSACTION|2]
+09:38:38 - Sending message [0|94|5|TRANSACTION|1]
+09:38:38 - Sending message [0|28|1|TRANSACTION|2]
+09:38:38 - Sending message [0|64|1|TRANSACTION|1]
+09:38:38 - Sending message [0|12|5|TRANSACTION|1]
+09:38:38 - Sending message [0|97|5|TRANSACTION|2]
+09:38:38 - Sending message [0|61|6|TRANSACTION|2]
+09:38:38 - Sending message [0|37|5|TRANSACTION|1]
+09:38:38 - Sending message [0|77|8|TRANSACTION|1]
+09:38:38 - Sending message [0|92|10|TRANSACTION|1]
+09:38:38 - Sending message [0|73|2|TRANSACTION|1]
+09:38:38 - Sending message [0|88|9|TRANSACTION|2]
+09:38:38 - Sending message [0|10|3|TRANSACTION|1]
+09:38:38 - Sending message [0|17|3|TRANSACTION|1]
+09:38:38 - Sending message [0|49|3|TRANSACTION|2]
+09:38:38 - Sending message [0|67|7|TRANSACTION|2]
+09:38:38 - Sending message [0|83|1|TRANSACTION|2]
+09:38:38 - Sending message [0|18|9|TRANSACTION|1]
+09:38:38 - Sending message [0|76|7|TRANSACTION|2]
+09:38:38 - Sending message [0|102|8|TRANSACTION|2]
+09:38:38 - Sending message [0|41|9|TRANSACTION|2]
+09:38:38 - Sending message [0|87|10|TRANSACTION|2]
+09:38:38 - Sending message [0|40|3|TRANSACTION|1]
+09:38:38 - Sending message [0|74|3|TRANSACTION|1]
+09:38:38 - Sending message [0|23|4|TRANSACTION|1]
+09:38:38 - Sending message [0|35|6|TRANSACTION|2]
+09:38:38 - Sending message [0|19|1|TRANSACTION|2]
+09:38:38 - Sending message [0|58|2|TRANSACTION|1]
+09:38:38 - Sending message [0|13|5|TRANSACTION|2]
+09:38:38 - Sending message [0|79|6|TRANSACTION|2]
+09:38:38 - Sending message [0|39|7|TRANSACTION|1]
+09:38:38 - Sending message [0|44|1|TRANSACTION|1]
+09:38:38 - Sending message [0|32|9|TRANSACTION|2]
+09:38:38 - Sending message [0|48|6|TRANSACTION|2]
+09:38:38 - Sending message [0|65|3|TRANSACTION|2]
+09:38:38 - Sending message [0|22|8|TRANSACTION|2]
+09:38:38 - Sending message [0|71|3|TRANSACTION|1]
+09:38:38 - Sending message [0|63|1|TRANSACTION|2]
+09:38:38 - Sending message [0|101|4|TRANSACTION|1]
+09:38:38 - Sending message [0|34|5|TRANSACTION|2]
+09:38:39 - Got message [10|104||SUM_MESSAGE|0]
+09:38:39 - DOBILI ODGOVOR OD 10____________________________________________10
+09:38:39 - PROMENE: [6, 10] _____10
+09:38:39 - odgovorili svi____________________________________________10
+09:38:39 - ima promena, saljem svima svoje rezultate____________________________________________10
+09:38:40 - Sending message [0|105||SUM_MESSAGE|10]
+09:38:41 - Sending message [0|104||SUM_MESSAGE|6]
+09:38:42 - Got message [6|105||SUM_MESSAGE|0]
+09:38:42 - DOBILI ODGOVOR OD 6____________________________________________6
+09:38:42 - PROMENE: [] _____6
+09:38:42 - Got message [10|105||SUM_MESSAGE|0]
+09:38:42 - DOBILI ODGOVOR OD 10____________________________________________10
+09:38:42 - PROMENE: [14] _____10
+09:38:42 - odgovorili svi____________________________________________10
+09:38:42 - ima promena, saljem svima svoje rezultate____________________________________________10
+09:38:43 - Got message [1|95|1|TRANSACTION|0]
+09:38:43 - Got message [1|104|1|TRANSACTION|0]
+09:38:43 - Got message [1|97|1|TRANSACTION|0]
+09:38:43 - Got message [1|78|3|TRANSACTION|0]
+09:38:43 - Got message [1|109|1|TRANSACTION|0]
+09:38:43 - Got message [1|88|6|TRANSACTION|0]
+09:38:43 - Got message [1|85|5|TRANSACTION|0]
+09:38:43 - Got message [1|121|1|TRANSACTION|0]
+09:38:43 - Got message [1|110|8|TRANSACTION|0]
+09:38:43 - Got message [1|105|10|TRANSACTION|0]
+09:38:43 - Got message [1|115|2|TRANSACTION|0]
+09:38:43 - Got message [1|93|10|TRANSACTION|0]
+09:38:43 - Got message [1|116|10|TRANSACTION|0]
+09:38:43 - Got message [1|83|5|TRANSACTION|0]
+09:38:43 - Got message [1|98|4|TRANSACTION|0]
+09:38:43 - Got message [1|87|3|TRANSACTION|0]
+09:38:43 - Got message [1|77|2|TRANSACTION|0]
+09:38:43 - Got message [1|74|4|TRANSACTION|0]
+09:38:43 - Got message [1|75|3|TRANSACTION|0]
+09:38:43 - Got message [1|103|10|TRANSACTION|0]
+09:38:43 - Got message [1|91|3|TRANSACTION|0]
+09:38:43 - Got message [1|117|7|TRANSACTION|0]
+09:38:43 - Got message [1|92|4|TRANSACTION|0]
+09:38:43 - Got message [1|89|8|TRANSACTION|0]
+09:38:43 - Got message [1|80|1|TRANSACTION|0]
+09:38:43 - Got message [1|86|2|TRANSACTION|0]
+09:38:43 - Got message [1|102|5|TRANSACTION|0]
+09:38:43 - Got message [1|119|3|TRANSACTION|0]
+09:38:43 - Got message [1|118|4|TRANSACTION|0]
+09:38:43 - Got message [1|112|1|TRANSACTION|0]
+09:38:43 - Got message [1|76|8|TRANSACTION|0]
+09:38:43 - Got message [1|82|3|TRANSACTION|0]
+09:38:43 - Got message [1|96|1|TRANSACTION|0]
+09:38:43 - Got message [1|90|1|TRANSACTION|0]
+09:38:43 - Got message [1|81|10|TRANSACTION|0]
+09:38:43 - Got message [1|111|3|TRANSACTION|0]
+09:38:43 - Got message [1|101|5|TRANSACTION|0]
+09:38:43 - Got message [1|100|7|TRANSACTION|0]
+09:38:43 - Got message [1|108|4|TRANSACTION|0]
+09:38:43 - Got message [1|120|1|TRANSACTION|0]
+09:38:43 - Got message [1|94|3|TRANSACTION|0]
+09:38:43 - Got message [1|106|5|TRANSACTION|0]
+09:38:43 - Got message [1|122|6|TRANSACTION|0]
+09:38:43 - Got message [1|114|2|TRANSACTION|0]
+09:38:43 - Sending message [0|107||SUM_MESSAGE|10]
+09:38:43 - Got message [1|99|7|TRANSACTION|0]
+09:38:44 - Got message [1|79|8|TRANSACTION|0]
+09:38:44 - Got message [1|84|1|TRANSACTION|0]
+09:38:44 - Got message [1|73|4|TRANSACTION|0]
+09:38:44 - Got message [1|113|5|TRANSACTION|0]
+09:38:44 - Sending message [0|106||SUM_MESSAGE|6]
+09:38:44 - Sending message [0|108||SUM_MESSAGE|14]
+09:38:44 - Got message [1|107|10|TRANSACTION|0]
+09:38:45 - Got message [2|273|8|TRANSACTION|0]
+Adding message to queue: [2|273|8|TRANSACTION|0]
+09:38:45 - Got message [2|192|6|TRANSACTION|0]
+Adding message to queue: [2|192|6|TRANSACTION|0]
+09:38:45 - Got message [14|157||SUM_MESSAGE|0]
+09:38:45 - DOBILI ODGOVOR OD 14____________________________________________14
+09:38:45 - PROMENE: [] _____14
+09:38:45 - Got message [2|210|2|TRANSACTION|0]
+Adding message to queue: [2|210|2|TRANSACTION|0]
+09:38:45 - Got message [2|206|4|TRANSACTION|0]
+Adding message to queue: [2|206|4|TRANSACTION|0]
+09:38:45 - Got message [2|193|7|TRANSACTION|0]
+Adding message to queue: [2|193|7|TRANSACTION|0]
+09:38:45 - Got message [2|288|1|TRANSACTION|0]
+Adding message to queue: [2|288|1|TRANSACTION|0]
+09:38:45 - Got message [2|294|3|TRANSACTION|0]
+Adding message to queue: [2|294|3|TRANSACTION|0]
+09:38:45 - Got message [2|174|5|TRANSACTION|0]
+Adding message to queue: [2|174|5|TRANSACTION|0]
+09:38:45 - Got message [2|243|1|TRANSACTION|0]
+Adding message to queue: [2|243|1|TRANSACTION|0]
+09:38:45 - Got message [2|270|10|TRANSACTION|0]
+Adding message to queue: [2|270|10|TRANSACTION|0]
+09:38:45 - Got message [2|303|8|TRANSACTION|0]
+Adding message to queue: [2|303|8|TRANSACTION|0]
+09:38:45 - Got message [6|107||SUM_MESSAGE|0]
+09:38:45 - DOBILI ODGOVOR OD 6____________________________________________6
+09:38:45 - PROMENE: [] _____6
+09:38:45 - Got message [2|267|7|TRANSACTION|0]
+Adding message to queue: [2|267|7|TRANSACTION|0]
+09:38:45 - Got message [2|258|8|TRANSACTION|0]
+Adding message to queue: [2|258|8|TRANSACTION|0]
+09:38:45 - Got message [2|216|4|TRANSACTION|0]
+Adding message to queue: [2|216|4|TRANSACTION|0]
+09:38:45 - Got message [2|234|1|TRANSACTION|0]
+Adding message to queue: [2|234|1|TRANSACTION|0]
+09:38:45 - Got message [2|279|5|TRANSACTION|0]
+Adding message to queue: [2|279|5|TRANSACTION|0]
+09:38:45 - Got message [2|203|9|TRANSACTION|0]
+Adding message to queue: [2|203|9|TRANSACTION|0]
+09:38:45 - Got message [2|189|2|TRANSACTION|0]
+Adding message to queue: [2|189|2|TRANSACTION|0]
+09:38:45 - Got message [2|171|9|TRANSACTION|0]
+Adding message to queue: [2|171|9|TRANSACTION|0]
+09:38:45 - Got message [2|219|4|TRANSACTION|0]
+Adding message to queue: [2|219|4|TRANSACTION|0]
+09:38:45 - Got message [2|177|2|TRANSACTION|0]
+Adding message to queue: [2|177|2|TRANSACTION|0]
+09:38:45 - Got message [2|252|6|TRANSACTION|0]
+Adding message to queue: [2|252|6|TRANSACTION|0]
+09:38:45 - Got message [2|240|10|TRANSACTION|0]
+Adding message to queue: [2|240|10|TRANSACTION|0]
+09:38:45 - Got message [2|225|3|TRANSACTION|0]
+Adding message to queue: [2|225|3|TRANSACTION|0]
+09:38:45 - Got message [2|180|8|TRANSACTION|0]
+Adding message to queue: [2|180|8|TRANSACTION|0]
+09:38:45 - Got message [2|159|7|TRANSACTION|0]
+Adding message to queue: [2|159|7|TRANSACTION|0]
+09:38:45 - Got message [2|168|2|TRANSACTION|0]
+Adding message to queue: [2|168|2|TRANSACTION|0]
+09:38:45 - Got message [2|165|6|TRANSACTION|0]
+Adding message to queue: [2|165|6|TRANSACTION|0]
+09:38:45 - Got message [2|228|4|TRANSACTION|0]
+Adding message to queue: [2|228|4|TRANSACTION|0]
+09:38:45 - Got message [2|255|4|TRANSACTION|0]
+Adding message to queue: [2|255|4|TRANSACTION|0]
+09:38:45 - Got message [2|276|10|TRANSACTION|0]
+Adding message to queue: [2|276|10|TRANSACTION|0]
+09:38:45 - Got message [2|264|8|TRANSACTION|0]
+Adding message to queue: [2|264|8|TRANSACTION|0]
+09:38:45 - Got message [2|306|9|TRANSACTION|0]
+Adding message to queue: [2|306|9|TRANSACTION|0]
+09:38:45 - Got message [2|246|1|TRANSACTION|0]
+Adding message to queue: [2|246|1|TRANSACTION|0]
+09:38:45 - Got message [2|197|7|TRANSACTION|0]
+Adding message to queue: [2|197|7|TRANSACTION|0]
+09:38:46 - Got message [2|213|10|TRANSACTION|0]
+Adding message to queue: [2|213|10|TRANSACTION|0]
+09:38:46 - Got message [2|300|3|TRANSACTION|0]
+Adding message to queue: [2|300|3|TRANSACTION|0]
+09:38:46 - Got message [2|200|2|TRANSACTION|0]
+Adding message to queue: [2|200|2|TRANSACTION|0]
+09:38:46 - Got message [2|162|1|TRANSACTION|0]
+Adding message to queue: [2|162|1|TRANSACTION|0]
+09:38:46 - Got message [2|237|9|TRANSACTION|0]
+Adding message to queue: [2|237|9|TRANSACTION|0]
+09:38:46 - Got message [2|222|6|TRANSACTION|0]
+Adding message to queue: [2|222|6|TRANSACTION|0]
+09:38:46 - Got message [2|282|7|TRANSACTION|0]
+Adding message to queue: [2|282|7|TRANSACTION|0]
+09:38:46 - Got message [2|291|7|TRANSACTION|0]
+Adding message to queue: [2|291|7|TRANSACTION|0]
+09:38:46 - Got message [2|186|2|TRANSACTION|0]
+Adding message to queue: [2|186|2|TRANSACTION|0]
+09:38:46 - Got message [2|261|9|TRANSACTION|0]
+Adding message to queue: [2|261|9|TRANSACTION|0]
+09:38:46 - Got message [2|183|10|TRANSACTION|0]
+Adding message to queue: [2|183|10|TRANSACTION|0]
+09:38:46 - Got message [2|285|2|TRANSACTION|0]
+Adding message to queue: [2|285|2|TRANSACTION|0]
+09:38:46 - Got message [2|231|10|TRANSACTION|0]
+Adding message to queue: [2|231|10|TRANSACTION|0]
+09:38:46 - Got message [10|110||SUM_MESSAGE|0]
+09:38:46 - DOBILI SMO SUM NULL____________________________________________10
+09:38:46 - TO JE BIO ODGOVOR KOJI NAM JE FALIO U RUNDI____________________________________________10
+09:38:46 - NEMA PROMENA, NISU SVI BLANKO PA SALJEMO DALJE BLANKO____________________________________________10
+09:38:46 - Got message [2|297|2|TRANSACTION|0]
+Adding message to queue: [2|297|2|TRANSACTION|0]
+09:38:46 - Got message [2|249|8|TRANSACTION|0]
+Adding message to queue: [2|249|8|TRANSACTION|0]
