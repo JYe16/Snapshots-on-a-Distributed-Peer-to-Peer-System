@@ -25,6 +25,8 @@ public class AppConfig {
 	 */
 	public static ServentInfo myServentInfo;
 	
+	public static int timeLimit;
+	
 	private static List<ServentInfo> serventInfoList = new ArrayList<>();
 	
 	public static List<ServentInfo> initiators = new ArrayList<>();
@@ -105,7 +107,7 @@ public class AppConfig {
 			timestampedErrorPrint("Problem reading servent_count. Exiting...");
 			System.exit(0);
 		}
-		
+		timeLimit = Integer.parseInt(properties.getProperty("timeLimit"));
 		IS_CLIQUE = Boolean.parseBoolean(properties.getProperty("clique", "false"));
 		String snapshotType = properties.getProperty("snapshot");
 		if (snapshotType == null) {

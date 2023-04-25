@@ -1,5 +1,4 @@
 package app.snapshot_bitcake;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -7,7 +6,6 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicBoolean;
-
 import app.AppConfig;
 import servent.message.snapshot.SumMessage;
 import servent.message.util.MessageUtil;
@@ -88,6 +86,8 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			
 			System.out.println("Pocinjem da trazim [" + AppConfig.myServentInfo.getId() + "]");
 			
+			
+			long startTime = System.nanoTime();
 			//1 send asks
 			((LaiYangBitcakeManager)bitcakeManager).markerEvent(AppConfig.myServentInfo.getId(), this, AppConfig.snapshotID.get(), null);
 			
@@ -120,6 +120,7 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 			sum = 0;
 			for (Entry<Integer, LYSnapshotResult> nodeResult : collectedLYValues.entrySet()) {
 				sum += nodeResult.getValue().getRecordedAmount();
+				AppConfig.timestampedErrorPrint("Size for snapshot " + nodeResult.getKey() + ": " + nodeResult.getValue().getSize() + " bytes");
 				AppConfig.timestampedStandardPrint(
 						"Recorded bitcake amount for " + nodeResult.getKey() + " = " + nodeResult.getValue().getRecordedAmount());
 			}
@@ -186,6 +187,8 @@ public class SnapshotCollectorWorker implements SnapshotCollector {
 				}
 			}*/
 			
+			double endTime = (double)((System.nanoTime() - startTime) / 1000000000);
+			AppConfig.timestampedErrorPrint("Snapshot collecting time: " + endTime);
 			AppConfig.timestampedStandardPrint("System bitcake count: " + sum);
 			AppConfig.timestampedStandardPrint("Cvorovi u mom regionu: " + collectedLYValues.entrySet());
 			AppConfig.timestampedStandardPrint("Suma za region[" + AppConfig.myServentInfo.getId() + "]: " + sum);

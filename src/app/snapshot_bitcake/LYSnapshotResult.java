@@ -1,6 +1,6 @@
 package app.snapshot_bitcake;
-
 import java.io.Serializable;
+import java.util.Iterator;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -47,5 +47,27 @@ public class LYSnapshotResult implements Serializable {
 	}
 	public int getMaster() {
 		return master;
+	}
+	
+	public int getSize() {
+		int result = String.valueOf(this.serventId).length() * 4 + String.valueOf(this.getMaster()).length() * 4 + String.valueOf(this.recordedAmount).length() * 4;
+		Iterator<Map.Entry<Integer, Integer>> itr = this.getGetHistory().entrySet().iterator();
+        
+        while(itr.hasNext())
+        {
+             Map.Entry<Integer, Integer> entry = itr.next();
+             result += String.valueOf(entry.getKey()).length() * 4;
+             result += String.valueOf(entry.getValue()).length() * 4;
+        }
+        
+        Iterator<Map.Entry<Integer, Integer>> itr2 = this.getGiveHistory().entrySet().iterator();
+        
+        while(itr2.hasNext())
+        {
+             Map.Entry<Integer, Integer> entry = itr2.next();
+             result += String.valueOf(entry.getKey()).length() * 4;
+             result += String.valueOf(entry.getValue()).length() * 4;
+        }
+		return result;
 	}
 }

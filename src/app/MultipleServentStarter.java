@@ -1,6 +1,7 @@
 package app;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -38,20 +39,43 @@ public class MultipleServentStarter {
 		
 		@Override
 		public void run() {
-			Scanner sc = new Scanner(System.in);
-			
+			long startTime = System.nanoTime();
+			long endTime = startTime + (AppConfig.timeLimit * 1000000000L);
 			while(true) {
-				String line = sc.nextLine();
-				
-				if (line.equals("stop")) {
+				if (System.nanoTime() >= endTime) {
 					for (Process process : serventProcesses) {
 						process.destroy();
 					}
 					break;
 				}
 			}
+			File folder = new File("D:\\Code\\COP-5611\\Spezialetti-Kearns\\ly_snapshot\\error");
+			File[] files = folder.listFiles();
+			double collectTimeSum = 0.0;
+			double collectCount = 0.0;
+			int snapshotSizeSum = 0;
 			
-			sc.close();
+			for (File file: files) {
+				try {
+					Scanner sc = new Scanner(file);
+					while (sc.hasNextLine()) {
+						String line = sc.nextLine();
+						if (line.indexOf("Snapshot collecting time:") != -1) {
+							collectTimeSum += Double.parseDouble(line.substring(37, line.length()));
+							collectCount += 1.0;
+						}
+						if (line.indexOf("Size for snapshot") != 1) {
+							String[] tempArr = line.split(" ");
+							snapshotSizeSum += Integer.parseInt(tempArr[tempArr.length - 2]);
+						}
+					}
+				} catch (FileNotFoundException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+			System.out.println("Average collcting time: " + (collectTimeSum / collectCount));
+			System.out.println("Average snapshot size: " + (snapshotSizeSum / AppConfig.getServentCount()));
 		}
 	}
 	
@@ -64,8 +88,7 @@ public class MultipleServentStarter {
 		
 		AppConfig.readConfig(testName+"/servent_list.properties");
 		
-		AppConfig.timestampedStandardPrint("Starting multiple servent runner. "
-				+ "If servents do not finish on their own, type \"stop\" to finish them");
+		AppConfig.timestampedStandardPrint("Starting multiple servent runner. Time Limit: " + AppConfig.timeLimit + " seconds.");
 		
 		int serventCount = AppConfig.getServentCount();
 		
